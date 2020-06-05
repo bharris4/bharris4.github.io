@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ The\ test\ class\ Test.\r\n\r\n\ @author\ \ (Bailey\ Harris)\r\n\ -15\ base\ 10\ to\ 8\ bit\ binary\ is\ 11110001\r\n\ We\ use\ 15\ divided\ by\ 2\ via\ long\ division\ to\ get\ the\ remainders\ of\ each\ step.\r\n\ (ie\ 15\ /\ 2\ \=\ 7\ .\ 15\ %\ 2\ \=\ 1\ and\ then\ 7/2\ \=\ 3\ .\ 7\ %\ 2\ \=\ 1......\r\n\ We\ do\ this\ until\ it\ we\ cannot\ reduce\ any\ further.\ Then,\ add\ record\ all\ remainders\ \r\n\ backwards\ to\ give\ us\ the\ binary\ number\ of\ a\ four\ bit\ value.\r\n\ Since\ 15\ is\ a\ negative\ number\ we\ proceed\ from\ the\ left\ to\ the\ right\ 1111.\r\n\ To\ get\ the\ two's\ compliment\ we\ flip\ the\ bits\ and\ add\ 1.\r\n\ \=\ 01000111\r\n\ \r\n\ Corrected\ bits\r\n\ I\ see,\ this\ stuff\ is\ complex\ to\ get\ my\ mind\ around.\ \r\n\ 00001111\ flip\ the\ bits\ and\ add\ one>\ 11110001\r\n\ My\ confusion\ with\ this\ was\ the\ eight\ bit.\ I\ understand\ twos\ compliment\ and\ \r\n\ the\ process\ in\ conversion\ between\ positive\ and\ negative\ numbers.\ However,\r\n\ I\ was\ a\ little\ thrown\ off\ with\ this\ one.\r\n\ I\ need\ to\ get\ the\ bits\ of\ numbers\ done.\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Test()
+comment1.text=\r\n\ Default\ constructor\ for\ class\ Test\r\n
+comment2.params=shapes\ type
+comment2.target=void\ filterPrint(java.util.List,\ java.lang.String)
+comment3.params=
+comment3.target=void\ printSquares()
+comment3.text=\r\n\ Hey\ Pete,\ Kind\ of\ lost\ on\ this\ one.\ Originally\ I\ did\ the\ first\ two\ lines\ of\r\n\ commented\ out\ code\ but\ I\ got\ an\ error.\ I\ am\ not\ sure\ if\ eithe\ way\ works.\r\n\ The\ top\ line\ is\ the\ code\ that\ will\ compile.\ I\ am\ curious\ if\ that\ one\ will\ work.\r\n
+comment4.params=
+comment4.target=void\ printShapes()
+comment5.params=
+comment5.target=void\ toPrintShapeList()
+comment5.text=\r\n\ This\ is\ not\ sorted\ but\ it\ does\ print\ each\ shape\r\n
+numComments=6

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Shape
+comment0.text=\r\n\ Abstract\ class\ Shape\ -\ write\ a\ description\ of\ the\ class\ here\r\n\r\n\ @author\ (your\ name\ here)\r\n\ @version\ (version\ number\ or\ date\ here)\r\n
+comment1.params=
+comment1.target=double\ getArea()
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment10.params=x\ y
+comment10.target=int\ compareArea(Shape,\ Shape)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=double\ getPerimeter()
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment4.params=type
+comment4.target=void\ setType(java.lang.String)
+comment5.params=area
+comment5.target=void\ setType(double)
+comment6.params=perimeter
+comment6.target=void\ setPerimeter(double)
+comment7.params=area
+comment7.target=void\ setArea(double)
+comment8.params=other
+comment8.target=int\ compareTo(Shape)
+comment9.params=x\ y
+comment9.target=int\ compare(Shape,\ Shape)
+numComments=12
